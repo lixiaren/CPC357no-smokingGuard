@@ -49,7 +49,7 @@ The system uses a "Stepped Threshold" approach to categorize smoke types (Calibr
 * **Safe Zone:** `< 800`
     * Status: Safe
 
-* **Vaping Zone:** `800 - 1000`
+* **Vaping Zone:** `800 - 1000` humidity ** `increse > 2.0`
     * Status: Vaping Detected
    
 * **Danger Zone:** `> 1000`
